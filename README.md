@@ -1,7 +1,11 @@
 # Reddit Account Creator
 
 ## Overview
-The **Reddit Account Creator** is a Python script designed to automate the creation of Reddit accounts using specified proxies. This tool can help you create multiple accounts quickly and efficiently.
+The **Reddit Account Creator** is a simple yet powerful Python script, powered by [**ReddAPI**](https://reddapi.online)—the best unofficial Reddit API available. if you're looking to automate large-scale account creation with an incredibly low ban rate (less than 1%), this tool has you covered.
+
+With [**ReddAPI**](https://reddapi.online), you can create multiple Reddit accounts quickly and securely, all while using your proxies to ensure everything runs smoothly—no more manual processes—just fast, efficient account creation right at your fingertips.
+
+Ready to give it a try? [**Subscribe to ReddAPI**](https://rapidapi.com/SeasonedCode/api/reddapi) for free and get started today!
 
 ## Prerequisites
 Before you can use the script, ensure you have the following:
