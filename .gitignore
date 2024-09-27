@@ -1,0 +1,6 @@
+# Ignore Python cache files and virtual environment
+__pycache__/
+venv/
+
+# Ignore test script
+test.py
